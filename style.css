@@ -1,0 +1,27 @@
+body{
+    position: relative;
+    margin: 0px;
+}
+.text{
+    color: whitesmoke;
+    font-family: 'Comic Neue', ;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', ;
+text-align: center;
+}
+
+.dog{
+    position: absolute;
+    height: 100px; 
+    width: 100px; 
+    background-color: black;
+}
+.pressed{
+    
+    background-image: url("public/dog\ laugh.gif");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    background-image: url("public/dog\ laugh.gif");
+}
