@@ -7,7 +7,7 @@ document.querySelector(".dog").style.top=ht+"px"
 document.querySelector(".dog").style.left=wt+"px"
 
 let audio = new Audio("public/dog.mp3")
-let end = new Audio("public/Evil laugh.mp3")
+let end = new Audio("public/Evil Laugh.mp3")
 
 
 let hypo1= ((theight-(ht+50))*(theight-(ht+50)))+((twidth-(wt+50))*(twidth-(wt+50)))
